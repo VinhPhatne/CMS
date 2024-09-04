@@ -4,7 +4,6 @@
 /source/node_modules
 /source/.pnp
 /source/.pnp.js
-/node_modules
 
 # testing
 /source/coverage
